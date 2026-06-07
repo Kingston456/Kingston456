@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 Im Kingsley
 
-<!--
-**Kingston456/Kingston456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & GRC Specialist in training | Security+ Certified | CompTIA | Worcester, MA.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Security professional transitioning into GRC/Compliance analyst roles. 
+I hold a B.S. in Criminal Justice and hands-on experience in physical 
+security compliance. I build homelabs to bridge the gap between theory 
+and practice.
+
+### Current Projects
+
+- **Wazuh SIEM Lab** - SSH Brute Force detection with custom rules mapped to MITRE ATT&CK T1110
+- **SCA Remediation** - SCA benchmark hardening on Metasploitable 3, validated via Wazuh re-scan
+
+### Featured Repositories
+
+See Pinned Repos below
+
+### Certifications
+- CompTIA Security+
