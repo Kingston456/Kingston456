@@ -12,7 +12,7 @@ security compliance. I build homelabs to cultivate skills knowledge.
 
 - **Wazuh SIEM Lab** - SSH Brute Force detection with custom rules mapped to MITRE ATT&CK T1110
 - **SCA Remediation** - SCA benchmark hardening on Metasploitable 3, validated via Wazuh re-scan
-- **OpenVas 
+- **OpenVas Vulnerability lab** - 
 
 ### Featured Repositories
 
