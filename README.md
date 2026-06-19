@@ -18,5 +18,8 @@ security compliance. I build homelabs to cultivate skills knowledge.
 
 See Pinned Repos below
 
+### 📓Education: 
+- **Bachelor's Degree** in Criminal Justice at Worcester State University
+
 ### Certifications
 - CompTIA Security+
