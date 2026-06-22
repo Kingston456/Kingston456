@@ -5,7 +5,7 @@ Cybersecurity & GRC Specialist in training | Security+ Certified | CompTIA | Wor
 ### About Me
 
 Security professional transitioning into GRC/Compliance analyst roles. 
-I hold a B.S. in Criminal Justice and hands-on experience in physical 
+I hold a B.S. in Criminal Justice and have hands-on experience in physical 
 security compliance. I build homelabs to cultivate skills knowledge.
 
 ### 🎯Current Projects
